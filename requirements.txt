@@ -1,5 +1,5 @@
-selenium
-pyautogui
-webdriver_manager
-PyYAML
-validate_email
+selenium==4.10.0
+pyautogui==0.9.53
+webdriver_manager==3.8.6
+PyYAML==5.4.1
+validate_email==1.3
